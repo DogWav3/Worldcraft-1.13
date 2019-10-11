@@ -8,5 +8,5 @@
 ### you can download the texture pack files form here
 #
 #
-### you can use all textures for your own texturepacks 
+##### you can use all textures for your own texturepacks 
 ##### (if you use my project for your own work it would be nice that mark me in the credits)
